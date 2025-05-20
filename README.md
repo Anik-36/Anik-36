@@ -7,7 +7,7 @@
 <br/> 
 <br/>  
 <h1 align="center">Assalamualaikum 👋 I'm Md. Anisur Rahman Anik </h1> 
-<h3 align="center">ICPC Asia Dhaka Regional Contestant 2024</h3>
+<h3 align="center">ICPC Asia Dhaka Regional Contestant 2024</h3> 
 <h3 align="center">A passionate <b>Problem Solver</b> || Competitive programmer. </h3>
 <h3 align="center">Full Stack Web Developer from Bangladesh.</h3>
 <img align="right" alt="conding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
