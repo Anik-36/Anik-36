@@ -2,7 +2,7 @@
 <br/>      
 <br/>          
  
-![logo](https://github.com/Anik-36/Anik-36/blob/main/Anisur%20Rahman%20Anik%20v2.png)  
+![logo](https://github.com/Anik-36/Anik-36/blob/main/Anisur%20Rahman%20Anik%20v2.png)   
    
 <br/>   
 <br/> 
