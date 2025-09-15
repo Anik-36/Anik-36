@@ -6,7 +6,7 @@
    
 <br/>    
 <br/>  
-<h1 align="center">Assalamualaikum 👋 I'm Md. Anisur Rahman Anik </h1> 
+<h1 align="center">Assalamualaikum 👋 I'm Md. Anisur Rahman Anik </h1>  
 <h3 align="center">ICPC Asia Dhaka Regional Contestant 2024</h3> 
 <h3 align="center">A passionate <b>Problem Solver</b> || Competitive programmer. </h3>
 <h3 align="center">Full Stack Web Developer from Bangladesh.</h3>
